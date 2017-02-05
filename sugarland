@@ -40,12 +40,25 @@
     
     <h2>CARDS</h2>
     <img src="https://photos-6.dropbox.com/t/2/AADa92fAsTvnsnLGj630Dr6dfCBGlAZR1u6VkkmneWHtVw/12/12162444/jpeg/32x32/3/1486339200/0/2/Photo%20Jan%2026%2C%209%2029%2052%20PM.jpg/EIuehQkYpDYgAigC/lcASufScHQFwKYBiPh2ThQngcMsO16VTa_764_cJrGc?dl=0&size=1280x960&size_mode=3" style=width:300px> 
+    <p>When you draw a card with <strong>one color block</strong>, move your pawn forward torward the Candy Castle to the first matching color space on the path.</p>
+    <p>When you draw a card with <strong>two color blocks</strong>, move your pawn backward away from the Candy Castle to the second matching color space on the path.</p>
+    <p><em>If you draw a <strong>two color block card</strong> and there are <strong>NOT</strong> two spaces of that color behind you on path, then move pawn back to start.</em></p>
     
+    <p> When you draw a <strong>picture card</strong>, move your pawn forward or backward to the PINK picture space on the board that matches the PINK picture square on your card.</p>
+    <p><em>You must draw a <strong>one color block card</strong> or a <strong>pink card</strong> to start your turn. If you draw a <strong>two color block card</strong> when at the start position, then you must discard the card and wait for your next turn to draw again.</em></p>
+   
+    <h2>MOVEMENT</h2>
+    <ol>
+      <li>Always move in the direction of the sign posts, unless a Picture card directs you to move backwards on the path.</li>
+      <li>Two or more Gingerbread Character pawns may be on the same space at the same time.</li>
+      <li><strong>Shortcuts:</strong> There are 2 shortcuts on the path- the Rainbow River and the Gumdrop Pass.If your pawn lands, by exact count, on the blue space below the Rainbow River or the green space below the Gumdrop Pass, you can move your pawn immediately by taking the shortcut to the space the arrow points torwards.</li>
+      <li><strong>Licorice Spaces:</strong> There are 2 licorice spaces on the path marked in an X. These spaces were put here by the sneaky Lord Licorice to try and slow you down. If you land on one of these spaces by exact count, your Gingerbread Character pawn is stuck there for one turn.</li>
+      <li>Play as above until someone reaches the rainbow space near the Candy Castle.</li>
+    </ol>
+    
+    <h2>HOW TO WIN THE GAME</h2>
+    <p>If you are the first person to reach the multi-colored rainbow space, you've reached the Candy Castle and won the game.</p>
 
-
-
-
-
-      </body>
+</body>
     </html>
 
